@@ -1,0 +1,24 @@
+{
+  "name": "netoxygen-sms-test",
+  "version": "1.0.0",
+  "description": "NetOxygen script test",
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "^2.3.2",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Westixy/netOxygen-SMS-test.git"
+  },
+  "author": "Westixy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Westixy/netOxygen-SMS-test/issues"
+  },
+  "homepage": "https://github.com/Westixy/netOxygen-SMS-test#readme"
+}
